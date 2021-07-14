@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(22,22,22);
+    background-color: rgb(70,130,180);
   }
   
   .text {
@@ -63,7 +63,7 @@ body {
   }
   
   .button {
-    background-color: rgb(52,52,52);
+    background-color: rgb(135,206,235);
     border: none;
     color: white;
     padding: 8px 20px;
