@@ -1,6 +1,5 @@
-# Minecraft-1.8.8-PVP-Client-Files
-Files for my Youtube Series on coding a Minecraft 1.8.8 PVP Client.
+# Website
+dumb website for ppl who r kewl
 
-## Series Info
-* Playlist: https://www.youtube.com/playlist?list=PLxbv-Ej1VQMQS9M2qnmEQtp-qL3xcA4ua
-* Discord Server: No loobg
+## INFO
+* it has a minecraft gen
